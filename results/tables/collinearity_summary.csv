@@ -1,0 +1,12 @@
+Metric,Value
+n_samples,68
+n_features,8
+design_matrix_rank,9
+max_possible_rank,9
+is_rank_deficient,False
+condition_number_with_constant,477187.81186559174
+condition_number_uncentered,3713.6528480046327
+smallest_singular_value,0.0018799622260484959
+largest_singular_value,897.0950610380487
+tr_ti_correlation,-0.9999715085735834
+vm_ro_correlation,-0.8446486051140404
